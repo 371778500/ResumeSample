@@ -7,7 +7,7 @@
  - Github：https://github.com/ecit13218
 
  - 期望职位：Java程序员，全职
-   相关阅读：《spring实战（第四版）》，《java编程思想》
+ - 相关阅读：《spring实战（第四版）》，《java编程思想》
    
 # 联系方式
 
